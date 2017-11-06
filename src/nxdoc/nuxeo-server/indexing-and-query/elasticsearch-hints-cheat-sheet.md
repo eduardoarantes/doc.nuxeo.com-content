@@ -90,7 +90,7 @@ This page lists interesting use cases of Elasticsearch Hints.
 
 *   Drop any string field on your content view
 *   Use the following values for the ES hints configuration:
-    *   Index: `_all`
+    *   Index: `all_field`
     *   Analyzer: `fulltext`
     *   Operator: `fuzzy`
 
